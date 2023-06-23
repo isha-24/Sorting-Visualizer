@@ -11,7 +11,7 @@ A web-based Sorting Visualizer project that allows users to visualize various so
 
 ## Demo
 
-[Link to live demo](https://)
+[Link to live demo]([https://](https://main--amazing-belekoy-31d40a.netlify.app/))
 
 ## Installation
 
